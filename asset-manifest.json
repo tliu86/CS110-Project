@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CS110-Project/static/css/main.47c83504.css",
+    "main.js": "/CS110-Project/static/js/main.48c69424.js",
+    "static/js/453.f681b884.chunk.js": "/CS110-Project/static/js/453.f681b884.chunk.js",
+    "static/media/mountains.jpg": "/CS110-Project/static/media/mountains.d2f83d8455781de4d80f.jpg",
+    "static/media/oceanSet.jpg": "/CS110-Project/static/media/oceanSet.6cc13d85170b5ece5d4f.jpg",
+    "static/media/tim_prof_p.jpg": "/CS110-Project/static/media/tim_prof_p.f0d33a381ee16fafd505.jpg",
+    "static/media/github.png": "/CS110-Project/static/media/github.e86ac1f380c4120b7dd1.png",
+    "static/media/Timothy Liu Resume.pdf": "/CS110-Project/static/media/Timothy Liu Resume.a71ffd74dcf80d2a5551.pdf",
+    "index.html": "/CS110-Project/index.html",
+    "main.47c83504.css.map": "/CS110-Project/static/css/main.47c83504.css.map",
+    "main.48c69424.js.map": "/CS110-Project/static/js/main.48c69424.js.map",
+    "453.f681b884.chunk.js.map": "/CS110-Project/static/js/453.f681b884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c83504.css",
+    "static/js/main.48c69424.js"
+  ]
+}
